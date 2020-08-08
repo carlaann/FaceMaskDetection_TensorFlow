@@ -1,2 +1,29 @@
-# FaceMaskDetection_TensorFlow
+##
 Face Mask Detection using TensorFlow
+##
+#
+Datasets: 
+Download datasets from the following link.
+
+https://www.kaggle.com/wobotintelligence/face-mask-detection-dataset
+
+Medical Mask
+submission.csv
+train.csv
+#
+Items Required:
+import os, shutil
+import pandas as pd
+import numpy as np
+import cv2
+import matplotlib.pyplot as plt
+import cvlib as cv
+from keras import layers
+from keras import models
+#
+To create a deep learning model, many images must be available of people wearing masks and not wearing mask. 
+The images must include people wearing sunglasses, helmets, faces shields or anything that would resemble 
+something close to wearing a mask.  From Kaggle, a dataset was available called Face Mask Detection.  The model
+that was created from this dataset used environments with TensorFlow, Keras, OpenCV, and more.  
+#
+
