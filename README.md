@@ -9,10 +9,10 @@ This project is based upon face recognition detection system to detect people we
 #
 a) Download the following datasets from the above link.
  - https://www.kaggle.com/wobotintelligence/face-mask-detection-dataset
-  - Dataset to download:
-   - Medical Mask
-   - submission.csv
-   - train.csv
+    - Dataset to download:
+      - Medical Mask
+      - submission.csv
+      - train.csv
 b) Prerequisites
  - os
  - shutil
