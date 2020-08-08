@@ -7,7 +7,7 @@ This project is based upon face recognition detection system to detect people we
 #
 2) Installation
 #
-Datasets: https://www.kaggle.com/wobotintelligence/face-mask-detection-dataset
+- Datasets: https://www.kaggle.com/wobotintelligence/face-mask-detection-dataset
 - Download the following datasets from the above link.
  - Medical Mask
  - submission.csv
@@ -31,6 +31,6 @@ The model created from this dataset used environments with TensorFlow, Keras, Op
 #
 4) Acknowledgement
 #
-Author: Carla Harrell
-Credits: https://www.kaggle.com/wobotintelligence/face-mask-detection-dataset
+- Author: Carla Harrell
+- Credits: https://www.kaggle.com/wobotintelligence/face-mask-detection-dataset
 #
